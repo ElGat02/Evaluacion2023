@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "evaluacion-salazar-jairo": {
+      "hosting": {
+        "Prueba": [
+          "evaluacion-salazar-jairo"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "evaluacion-salazar-jairo"
+  }
+}

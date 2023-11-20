@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "Prueba",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
