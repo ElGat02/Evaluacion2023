@@ -1,8 +1,8 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { ContactoComponent } from './paginas/contacto/contacto.component';
-import { ListaContactosComponent } from './paginas/lista-contactos/lista-contactos.component';
-import { ViewContactoComponent } from './paginas/view-contacto/view-contacto.component';
+import { ContactoComponent } from './contacto/contacto.component';
+import { ListaContactosComponent } from './lista-contactos/lista-contactos.component';
+import { ViewContactoComponent } from './view-contacto/view-contacto.component';
 
 const routes: Routes = [
   {path:"paginas/contacto", component: ContactoComponent},

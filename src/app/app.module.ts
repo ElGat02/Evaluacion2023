@@ -17,7 +17,6 @@ import { ContactoComponent } from './contacto/contacto.component';
     MenuComponent,
     ListaContactosComponent,
     ViewContactoComponent
-    AppComponent
   ],
   imports: [
 

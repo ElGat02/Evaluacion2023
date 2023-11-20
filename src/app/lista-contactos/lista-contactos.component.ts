@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavigationExtras, Router } from '@angular/router';
-import { Persona } from 'src/app/domain/persona';
+import { Persona } from 'src/domain/persona';
 import { ContactosFirebaseService } from 'src/app/services/contactos-firebase.service';
 import { ContactosService } from 'src/app/services/contactos.service';
 

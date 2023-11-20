@@ -4,4 +4,6 @@ export class Persona {
     id?: string;
     dni?: string;
     name?: string;
+    apellido?: string;
+    fecha?: string;
 }
